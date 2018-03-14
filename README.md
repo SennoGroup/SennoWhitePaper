@@ -1,2 +1,3 @@
-# SennoWhitePaper
-Draft v0.9.17
+# Senno WhitePaper v1.0.2
+https://senno.io
+
