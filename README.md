@@ -5,6 +5,9 @@ Website:  https://senno.io
 Telegram: https://t.me/SennoGroup
 
 LinkedIn: https://www.linkedin.com/company/sennogroup/ 
+
 Twitter:  https://twitter.com/SennoGroup 
+
 Slack:    https://sennogroup.slack.com/ 
+
 Facebook: https://www.facebook.com/senno.io/
