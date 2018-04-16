@@ -9,8 +9,8 @@ LinkedIn: https://www.linkedin.com/company/sennogroup/
 
 Twitter:  https://twitter.com/SennoGroup 
 
-Slack:    https://sennogroup.slack.com/ 
-
 Facebook: https://www.facebook.com/senno.io/
 
 Medium: https://medium.com/@Senno/
+
+Bounty: https://senno.io/Bounty
