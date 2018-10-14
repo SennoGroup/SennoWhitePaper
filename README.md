@@ -1,5 +1,8 @@
 # Senno WhitePaper
-Senno is the Blockchain’s first sentiment analysis platform with an open API for 3rd party apps. Based on the NEO blockchain, It utilizes distributed sentiment analysis and AI algorithms to create a Real-Time crowd wisdom ecosystem and sophisticated business intelligence analytics. Senno will revolutionize the way decision making is made in the business and private sector. 
+Senno is an open, smart contract based, unified customer data platform, which will allow individuals to optimally monetize and control their private information while providing accurate, GDPR compliant, low cost refined data for any industry.
+
+The Senno protocol will disrupt the personal data industry by placing the user in the top of the value chain generated from the use of his private data.
+
 
 Website:  https://senno.io
 
